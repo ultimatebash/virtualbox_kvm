@@ -16,7 +16,7 @@ This is a patched version of VirtualBox 7.1.6 with KVM support improvements by c
 ### Install
 ```bash
 sudo dnf install -y kernel-devel dkms
-sudo dnf install VirtualBox-patched-7.1.6-1.fc42.x86_64.rpm
+sudo dnf install ./VirtualBox-patched-7.1.6-1.fc42.x86_64.rpm
 ```
 
 ### Usage
