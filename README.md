@@ -1,6 +1,6 @@
 # VirtualBox KVM-Patched Version
 
-This is a patched version of VirtualBox 7.1.6 with KVM support improvements.
+This is a patched version of VirtualBox 7.1.6 with KVM support improvements by cyberus.
 
 ## Features
 - **Self-contained RPM**: All required libraries (Qt6, OpenGL, curl, etc.) are bundled
