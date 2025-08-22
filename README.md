@@ -2,6 +2,8 @@
 
 This is a patched version of VirtualBox 7.1.6 with KVM support improvements by cyberus.
 
+FYI: unfortunately the bridged-network doesnt work with the patch which is on the part of cyberus. 
+
 ## Features
 - **Self-contained RPM**: All required libraries (Qt6, OpenGL, curl, etc.) are bundled
 - **KVM support**: Enhanced KVM compatibility patches applied
